@@ -1,0 +1,4 @@
+[core]
+    remote = gcs
+['remote "gcs"']
+    url = gs://spatial-arcadia-138421.appspot.com/demo_data
